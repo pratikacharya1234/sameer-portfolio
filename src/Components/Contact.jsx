@@ -17,10 +17,10 @@ const Contact = () => {
           <div className="mb-4">
             <h3 className="text-lg font-medium mb-1">Email</h3>
             <a 
-                href="mailto:vivekkapar@mail.weber.edu" 
+                href="mailto:sameerpandey@mail.weber.edu" 
                 className="text-xl text-purple-700 hover:text-purple-900 font-semibold transition"
               >
-                vivekkappar@mail.weber.edu
+                sameerpandey@mail.weber.edu
               </a>          
               </div>
         </div>
